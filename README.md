@@ -26,8 +26,7 @@ src/
 ├── assets/       # Images, icons, and other static files
 ├── hooks/        # Custom React hooks
 └── utils/        # Helper functions
-
-
+```
 
 
 ## 🔗 Live Demo
