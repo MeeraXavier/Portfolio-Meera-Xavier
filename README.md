@@ -17,13 +17,16 @@ A personal portfolio website built using **React**, **TypeScript**, and **Tailwi
 - **Form Handling:** EmailJS
 - **Deployment:** Vercel
 
-## 📂 Structure
+## 📂 Folder Structure
+
+```bash
 src/
--components/
--pages/
-- assets/
--hooks/
--utils/
+├── components/   # Reusable UI components
+├── pages/        # Main page sections (Home, About, Projects, Contact)
+├── assets/       # Images, icons, and other static files
+├── hooks/        # Custom React hooks
+└── utils/        # Helper functions
+
 
 
 ## 🔗 Live Demo
