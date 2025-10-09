@@ -18,3 +18,18 @@ A personal portfolio website built using **React**, **TypeScript**, and **Tailwi
 - **Deployment:** Vercel
 
 ## 📂 Structure
+src/
+├── components/
+├── pages/
+├── assets/
+├── hooks/
+└── utils/
+
+
+## 🔗 Live Demo
+[https://meeraxavier.vercel.app](https://meeraxavier.vercel.app)
+
+## 📧 Contact
+If you'd like to connect, reach me at:  
+**LinkedIn:** [linkedin.com/in/meera-xavier](https://linkedin.com/in/meera-xavier)  
+**Email:** meeramjmeera@gmail.com
