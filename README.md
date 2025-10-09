@@ -19,11 +19,11 @@ A personal portfolio website built using **React**, **TypeScript**, and **Tailwi
 
 ## 📂 Structure
 src/
-├── components/
-├── pages/
-├── assets/
-├── hooks/
-└── utils/
+-components/
+-pages/
+- assets/
+-hooks/
+-utils/
 
 
 ## 🔗 Live Demo
